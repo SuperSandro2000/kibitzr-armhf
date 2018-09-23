@@ -6,7 +6,7 @@ RUN [ "cross-build-start" ]
 
 WORKDIR /usr/src/app
 
-RUN apk add --no-cache ca-certificates python2 py-cffi py-cryptography py-lxml py-pip \
+RUN apk add --no-cache ca-certificates jq python2 py-cffi py-cryptography py-lxml py-pip \
 && pip install --upgrade --no-cache-dir pip \
 && pip install --no-cache-dir kibitzr \
 && rm -rf /var/cache/apk/*
