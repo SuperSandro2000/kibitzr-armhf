@@ -1,6 +1,6 @@
 # Kibitzr-armhf
 
-Kibitzr Docker Image for armhf architecture
+[Kibitzr](https://github.com/kibitzr/kibitzr) Docker Image for armhf architecture.
 
 ## Docker compose
 ````
