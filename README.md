@@ -1,6 +1,6 @@
-![Docker Build Status](https://img.shields.io/docker/build/supersandro2000/kibitzr-armhf.svg)
+[![Docker Build Status](https://img.shields.io/docker/build/supersandro2000/kibitzr-armhf.svg)](https://hub.docker.com/r/supersandro2000/kibitzr-armhf/)
 [![](https://images.microbadger.com/badges/image/supersandro2000/kibitzr-armhf.svg)](https://microbadger.com/images/supersandro2000/kibitzr-armhf "Get your own image badge on microbadger.com")
-![Docker Pulls](https://img.shields.io/docker/pulls/supersandro2000/kibitzr-armhf.svg)
+[![Docker Pulls](https://img.shields.io/docker/pulls/supersandro2000/kibitzr-armhf.svg)](https://hub.docker.com/r/supersandro2000/kibitzr-armhf/)
 
 # Kibitzr-armhf
 
